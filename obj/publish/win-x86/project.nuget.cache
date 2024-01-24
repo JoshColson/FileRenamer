@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IrScGRBdU7RWs+qN4GVRxtmcgnm/szsY3x+DfSoiMcC9GEthvLSQt95EjlHZz2sHVKH2ImiOzkHsGLdtzuVU0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Josh\\Desktop\\RenameFiles\\RenameFiles.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.11\\microsoft.netcore.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.11\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.11.nupkg.sha512",
+    "C:\\Users\\Josh\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.11\\microsoft.aspnetcore.app.runtime.win-x86.6.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}

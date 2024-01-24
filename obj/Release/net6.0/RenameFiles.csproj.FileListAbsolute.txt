@@ -1,0 +1,15 @@
+C:\Users\Josh\Desktop\RenameFiles\bin\Release\net6.0\RenameFiles.exe
+C:\Users\Josh\Desktop\RenameFiles\bin\Release\net6.0\RenameFiles.deps.json
+C:\Users\Josh\Desktop\RenameFiles\bin\Release\net6.0\RenameFiles.runtimeconfig.json
+C:\Users\Josh\Desktop\RenameFiles\bin\Release\net6.0\RenameFiles.dll
+C:\Users\Josh\Desktop\RenameFiles\bin\Release\net6.0\RenameFiles.pdb
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.csproj.AssemblyReference.cache
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.AssemblyInfoInputs.cache
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.AssemblyInfo.cs
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.csproj.CoreCompileInputs.cache
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.dll
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\refint\RenameFiles.dll
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.pdb
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\RenameFiles.genruntimeconfig.cache
+C:\Users\Josh\Desktop\RenameFiles\obj\Release\net6.0\ref\RenameFiles.dll
